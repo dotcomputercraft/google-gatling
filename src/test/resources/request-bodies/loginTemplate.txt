@@ -1,0 +1,6 @@
+{
+  "user": {
+    "email": "${userName}",
+    "password": "${password}"
+    }
+}
